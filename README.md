@@ -33,3 +33,5 @@ Scenarios compute: 99% (1023)Number of possible scenarios: 1024
 - Team KC: 4%
 - Team IZI: 0%
 - Unsupported tie break scenario: 477
+
+⚠ Le nombre de tiebreak non supportes est tres grand, il faut donc surtout en conclure que ca va etre la guerre jusqu'au bout ⚠
