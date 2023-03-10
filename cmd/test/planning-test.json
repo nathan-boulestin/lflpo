@@ -1,0 +1,90 @@
+{
+    "days": [
+        {
+            "matchs": [
+                {
+                    "blue": "KC",
+                    "red": "GO"
+                },
+                {
+                    "blue": "LDLC",
+                    "red": "AEG"
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "LDLC",
+                    "red": "GO"
+                },
+                {
+                    "blue": "KC",
+                    "red": "AEG"
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "AEG",
+                    "red": "GO"
+                },
+                {
+                    "blue": "KC",
+                    "red": "LDLC"
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "GO",
+                    "red": "KC"
+                },
+                {
+                    "blue": "AEG",
+                    "red": "LDLC"
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "GO",
+                    "red": "LDLC"
+                },
+                {
+                    "blue": "AEG",
+                    "red": "KC"
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "GO",
+                    "red": "AEG"
+                },
+                {
+                    "blue": "LDLC",
+                    "red": "KC"
+                }
+            ]
+        }
+    ],
+    "teams": {
+        "KC": {
+            "name": "KC"
+        },
+        "GO": {
+            "name": "GO"
+        },
+        "LDLC": {
+            "name": "LDLC"
+        },
+        "AEG": {
+            "name": "AEG"
+        }
+    }
+}

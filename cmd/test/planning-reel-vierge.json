@@ -1,0 +1,559 @@
+{
+    "days": [
+        {
+            "matchs": [
+                {
+                    "blue": "BDS",
+                    "red": "LDLC",
+                    "winner": ""
+                },
+                {
+                    "blue": "BK",
+                    "red": "SLY",
+                    "winner": ""
+                },
+                {
+                    "blue": "VIT",
+                    "red": "AEG",
+                    "winner": ""
+                },
+                {
+                    "blue": "GO",
+                    "red": "KC",
+                    "winner": ""
+                },
+                {
+                    "blue": "GW",
+                    "red": "IZI",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "BK",
+                    "red": "VIT",
+                    "winner": ""
+                },
+                {
+                    "blue": "LDLC",
+                    "red": "IZI",
+                    "winner": ""
+                },
+                {
+                    "blue": "GW",
+                    "red": "KC",
+                    "winner": ""
+                },
+                {
+                    "blue": "GO",
+                    "red": "AEG",
+                    "winner": ""
+                },
+                {
+                    "blue": "SLY",
+                    "red": "BDS",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "SLY",
+                    "red": "GW",
+                    "winner": ""
+                },
+                {
+                    "blue": "KC",
+                    "red": "BK",
+                    "winner": ""
+                },
+                {
+                    "blue": "GO",
+                    "red": "VIT",
+                    "winner": ""
+                },
+                {
+                    "blue": "LDLC",
+                    "red": "AEG",
+                    "winner": ""
+                },
+                {
+                    "blue": "IZI",
+                    "red": "BDS",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "LDLC",
+                    "red": "BK",
+                    "winner": ""
+                },
+                {
+                    "blue": "IZI",
+                    "red": "VIT",
+                    "winner": ""
+                },
+                {
+                    "blue": "AEG",
+                    "red": "BDS",
+                    "winner": ""
+                },
+                {
+                    "blue": "KC",
+                    "red": "SLY",
+                    "winner": ""
+                },
+                {
+                    "blue": "GW",
+                    "red": "GO",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "LDLC",
+                    "red": "GO",
+                    "winner": ""
+                },
+                {
+                    "blue": "SLY",
+                    "red": "IZI",
+                    "winner": ""
+                },
+                {
+                    "blue": "BDS",
+                    "red": "KC",
+                    "winner": ""
+                },
+                {
+                    "blue": "GW",
+                    "red": "VIT",
+                    "winner": ""
+                },
+                {
+                    "blue": "AEG",
+                    "red": "BK",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "GW",
+                    "red": "AEG",
+                    "winner": ""
+                },
+                {
+                    "blue": "IZI",
+                    "red": "KC",
+                    "winner": ""
+                },
+                {
+                    "blue": "BDS",
+                    "red": "VIT",
+                    "winner": ""
+                },
+                {
+                    "blue": "SLY",
+                    "red": "LDLC",
+                    "winner": ""
+                },
+                {
+                    "blue": "BK",
+                    "red": "GO",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "BK",
+                    "red": "GW",
+                    "winner": ""
+                },
+                {
+                    "blue": "KC",
+                    "red": "LDLC",
+                    "winner": ""
+                },
+                {
+                    "blue": "GO",
+                    "red": "BDS",
+                    "winner": ""
+                },
+                {
+                    "blue": "VIT",
+                    "red": "SLY",
+                    "winner": ""
+                },
+                {
+                    "blue": "IZI",
+                    "red": "AEG",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "BK",
+                    "red": "IZI",
+                    "winner": ""
+                },
+                {
+                    "blue": "GO",
+                    "red": "SLY",
+                    "winner": ""
+                },
+                {
+                    "blue": "AEG",
+                    "red": "KC",
+                    "winner": ""
+                },
+                {
+                    "blue": "LDLC",
+                    "red": "VIT",
+                    "winner": ""
+                },
+                {
+                    "blue": "GW",
+                    "red": "BDS",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "BDS",
+                    "red": "BK",
+                    "winner": ""
+                },
+                {
+                    "blue": "IZI",
+                    "red": "GO",
+                    "winner": ""
+                },
+                {
+                    "blue": "LDLC",
+                    "red": "GW",
+                    "winner": ""
+                },
+                {
+                    "blue": "AEG",
+                    "red": "SLY",
+                    "winner": ""
+                },
+                {
+                    "blue": "VIT",
+                    "red": "KC",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "AEG",
+                    "red": "LDLC",
+                    "winner": ""
+                },
+                {
+                    "blue": "BK",
+                    "red": "KC",
+                    "winner": ""
+                },
+                {
+                    "blue": "GW",
+                    "red": "SLY",
+                    "winner": ""
+                },
+                {
+                    "blue": "VIT",
+                    "red": "GO",
+                    "winner": ""
+                },
+                {
+                    "blue": "BDS",
+                    "red": "IZI",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "IZI",
+                    "red": "LDLC",
+                    "winner": ""
+                },
+                {
+                    "blue": "AEG",
+                    "red": "GO",
+                    "winner": ""
+                },
+                {
+                    "blue": "KC",
+                    "red": "GW",
+                    "winner": ""
+                },
+                {
+                    "blue": "BDS",
+                    "red": "SLY",
+                    "winner": ""
+                },
+                {
+                    "blue": "VIT",
+                    "red": "BK",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "BK",
+                    "red": "AEG",
+                    "winner": ""
+                },
+                {
+                    "blue": "VIT",
+                    "red": "GW",
+                    "winner": ""
+                },
+                {
+                    "blue": "KC",
+                    "red": "BDS",
+                    "winner": ""
+                },
+                {
+                    "blue": "GO",
+                    "red": "LDLC",
+                    "winner": ""
+                },
+                {
+                    "blue": "IZI",
+                    "red": "SLY",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "GO",
+                    "red": "BK",
+                    "winner": ""
+                },
+                {
+                    "blue": "KC",
+                    "red": "IZI",
+                    "winner": ""
+                },
+                {
+                    "blue": "VIT",
+                    "red": "BDS",
+                    "winner": ""
+                },
+                {
+                    "blue": "LDLC",
+                    "red": "SLY",
+                    "winner": ""
+                },
+                {
+                    "blue": "AEG",
+                    "red": "GW",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "BK",
+                    "red": "LDLC",
+                    "winner": ""
+                },
+                {
+                    "blue": "BDS",
+                    "red": "AEG",
+                    "winner": ""
+                },
+                {
+                    "blue": "GO",
+                    "red": "GW",
+                    "winner": ""
+                },
+                {
+                    "blue": "SLY",
+                    "red": "KC",
+                    "winner": ""
+                },
+                {
+                    "blue": "VIT",
+                    "red": "IZI",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "BDS",
+                    "red": "GO",
+                    "winner": ""
+                },
+                {
+                    "blue": "LDLC",
+                    "red": "KC",
+                    "winner": ""
+                },
+                {
+                    "blue": "SLY",
+                    "red": "VIT",
+                    "winner": ""
+                },
+                {
+                    "blue": "GW",
+                    "red": "BK",
+                    "winner": ""
+                },
+                {
+                    "blue": "AEG",
+                    "red": "IZI",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "GO",
+                    "red": "IZI",
+                    "winner": ""
+                },
+                {
+                    "blue": "KC",
+                    "red": "VIT",
+                    "winner": ""
+                },
+                {
+                    "blue": "GW",
+                    "red": "LDLC",
+                    "winner": ""
+                },
+                {
+                    "blue": "SLY",
+                    "red": "AEG",
+                    "winner": ""
+                },
+                {
+                    "blue": "BK",
+                    "red": "BDS",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "IZI",
+                    "red": "BK",
+                    "winner": ""
+                },
+                {
+                    "blue": "VIT",
+                    "red": "LDLC",
+                    "winner": ""
+                },
+                {
+                    "blue": "KC",
+                    "red": "AEG",
+                    "winner": ""
+                },
+                {
+                    "blue": "SLY",
+                    "red": "GO",
+                    "winner": ""
+                },
+                {
+                    "blue": "BDS",
+                    "red": "GW",
+                    "winner": ""
+                }
+            ]
+        },
+        {
+            "matchs": [
+                {
+                    "blue": "IZI",
+                    "red": "GW",
+                    "winner": ""
+                },
+                {
+                    "blue": "AEG",
+                    "red": "VIT",
+                    "winner": ""
+                },
+                {
+                    "blue": "KC",
+                    "red": "GO",
+                    "winner": ""
+                },
+                {
+                    "blue": "LDLC",
+                    "red": "BDS",
+                    "winner": ""
+                },
+                {
+                    "blue": "SLY",
+                    "red": "BK",
+                    "winner": ""
+                }
+            ]
+        }
+    ],
+    "teams": {
+        "LDLC": {
+            "name": "LDLC"
+        },
+        "BDS": {
+            "name": "BDS"
+        },
+        "VIT": {
+            "name": "VIT"
+        },
+        "GW": {
+            "name": "GW"
+        },
+        "KC": {
+            "name": "KC"
+        },
+        "GO": {
+            "name": "GO"
+        },
+        "SLY": {
+            "name": "SLY"
+        },
+        "IZI": {
+            "name": "IZI"
+        },
+        "AEG": {
+            "name": "AEG"
+        },
+        "BK": {
+            "name": "BK"
+        }
+    },
+    "placesInPlayoff": 6
+}
